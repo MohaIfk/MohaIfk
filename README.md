@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning cpp and rust<br>🎯 Goals: getting my master degree<br>🎲 Fun fact: they invented AI when i am close to get a job i don't know if it's a blessing or a curse 🤔<br>I am currently working on (NeonFSLib)[https://github.com/NeonFS/NeonFSLib]</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning cpp and rust<br>🎯 Goals: getting my master degree<br>🎲 Fun fact: they invented AI when i am close to get a job i don't know if it's a blessing or a curse 🤔<br>I am currently working on [NeonFSLib](https://github.com/NeonFS/NeonFSLib)</p>
 
 ###
 
