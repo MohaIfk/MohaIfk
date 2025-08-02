@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MohaIfk
 - 🌱 I’m currently learning C and C++
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MohaIfk/count.svg" />
-</p>
+<a href="https://github.com/AntsyLich">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohaIfk&bg_color=30,232526,434343&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide_border=true&count_private=true&custom_title=Yesh%20my%20stats."/>
+</a> 
